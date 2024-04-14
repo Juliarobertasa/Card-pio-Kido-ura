@@ -1,1 +1,27 @@
+# Introdução 
+No cotidiano do trabalhador autônomo, é comum lidar com múltiplas tarefas simultaneamente. Desde aquisição de insumos até criação de conteúdo e atendimento ao cliente, uma diversidade de responsabilidades compete pela atenção do profissional. Consequentemente, é possível que algumas dessas tarefas recebam menos foco do que deveriam. 
 
+Particularmente em um contexto de produção alimentícia, a atenção cuidadosa à execução e manipulação dos alimentos é fundamental. Nesse sentido, qualquer aspecto que possa ser automatizado representa uma oportunidade valiosa. Uma aplicação que apresente de maneira clara os produtos disponíveis, opções de contato e modalidades de retirada não apenas simplifica o processo de trabalho, mas também impulsiona significativamente as vendas. A praticidade e facilidade resultantes do atendimento aprimorado contribuem para uma experiência mais satisfatória por parte do cliente. 
+
+## Problema
+Conforme exposto, o problema que se busca resolver com esse projeto é a limitação na agilidade do atendimento ao cliente. 
+
+## Objetivos
+Os objetivos principais do projeto são: 
+
+1.Criar um website intuitivo, facilitando o acesso dos clientes ao cardápio da loja. 
+2.Disponibilizar dicas de transporte e conservação. 
+3.Implementar um sistema de pedidos online. 
+
+## Justificativa 
+O desenvolvimento de um website para facilitar o acesso ao cardápio de uma lanchonete e permitir a realização de pedidos online é uma iniciativa crucial para atender às demandas do mercado contemporâneo e melhorar a experiência do cliente. Esta justificativa se baseia em diversos aspectos que abordam tanto a eficiência operacional quanto a satisfação do cliente. 
+
+**Simplificação do Processo de Compra:** Ao oferecer uma plataforma online onde os clientes podem visualizar o cardápio completo da confeitaria e fazer pedidos de forma conveniente, elimina-se a necessidade de deslocamento físico até o estabelecimento. Isso não apenas economiza tempo para os clientes, mas também simplifica o processo de compra, aumentando a probabilidade de conversão de visitantes em compradores. 
+**Ampliação do Alcance de Mercado:** Com a presença online, a loja pode alcançar um público mais amplo, incluindo clientes que podem não estar fisicamente próximos ao estabelecimento. Isso possibilita uma expansão do mercado potencial e aumenta as oportunidades de venda, contribuindo para o crescimento do negócio. 
+**Atendimento Personalizado e Ágil:** Através da plataforma online, é possível fornecer aos clientes informações detalhadas sobre os produtos, incluindo dicas de transporte e conservação, proporcionando uma experiência mais personalizada. Além disso, os pedidos online podem ser processados de forma mais rápida e eficiente, melhorando a agilidade do atendimento ao cliente. 
+**Adaptação às Tendências Tecnológicas:** Em um mundo cada vez mais digitalizado, é essencial que as empresas estejam presentes online para acompanhar as expectativas dos consumidores. Um website de pedidos online não apenas atende a essa demanda, mas também projeta uma imagem moderna e inovadora para a confeitaria, o que pode atrair clientes em potencial. 
+
+## Público alvo
+1.Clientes de uma determinada confeitaria que buscam agilidade no processo de compra. 
+2.Lojas do ramo alimentício que desejam agilizar e modernizar o seu processo de atendimento ao cliente. 
+ 
